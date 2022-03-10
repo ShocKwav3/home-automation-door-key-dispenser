@@ -25,3 +25,4 @@ The remote can be attached to the door, 90degrees left from the letter box so th
 After waking up the system checks for a password and this password is given with the IR remote. The buzzer plays sounds of "System woke up", "Ready to take password", "Wrong password", " Correct password" etc. After that, user can put the system back to sleep or demand the key, where the key should be available through the letter hole.
 
 ### Circuit diagram
+![alt text](https://github.com/ShocKwav3/home-automation-door-key-dispenser/blob/main/fritzing/door-key-dispenser_img.png)
